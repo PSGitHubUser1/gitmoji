@@ -3541,6 +3541,11 @@ minimist@^1.2.0, minimist@^1.2.5:
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
   integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
 
+minimist@^1.2.6:
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.8.tgz#c1a464e7693302e082a075cee0c057741ac4772c"
+  integrity sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==
+
 ms@2.1.2:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
@@ -3569,12 +3574,12 @@ next-pwa@^5.4.4:
     workbox-window "^6.5.1"
 
 next-sitemap@^2.1.5:
-  version "2.5.7"
-  resolved "https://registry.yarnpkg.com/next-sitemap/-/next-sitemap-2.5.7.tgz#8376ecc8e91b94438f901dff732d5bef39e9d98c"
-  integrity sha512-snyIWKwzy4QfLrZmXk2fT7ue5RYc1GNqrMfvC/VQJWyPX5QRZnYJLVScd9jmfdVlN5l6M5sFY3VSuFmCQUZ5Vg==
+  version "2.5.28"
+  resolved "https://registry.yarnpkg.com/next-sitemap/-/next-sitemap-2.5.28.tgz#c061914edcc74268e43254710dec0a0febae5fa4"
+  integrity sha512-rDMTa7nLE0ikYnu8JDCrwQufIRm4b4Sg8BK11DGdDAmYpXmcmw4Qvm+oVBR8gUL97E6i2ihTM+cRx8mgENDACA==
   dependencies:
     "@corex/deepmerge" "^2.6.148"
-    minimist "^1.2.5"
+    minimist "^1.2.6"
 
 next@^12.0.0:
   version "12.1.0"
